@@ -13,6 +13,7 @@ Hi there, thanks for stopping by, this is **Jiaqi Gu** from China, base in Jiaxi
   
 - Full stack developer(second as well)
   - I also can write (simple) Python project
+  - And some ios projects
 
 ---
 
