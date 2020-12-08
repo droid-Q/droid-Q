@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there, thanks for stopping by, this is **Jiaqi Gu** from China, base in Jiaxing.
+![]( https://visitor-badge.glitch.me/badge?page_id=<your_page_id>)
+---
 
-<!--
-**droid-Q/droid-Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**The following is my development experience.**
 
-Here are some ideas to get you started:
+- Senior Java Developer(main)
+  - 7 years experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend developer(second)
+  - Vue.js (1 year experience)
+  - HTML / CSS / Javascript
+  
+- Full stack developer(second as well)
+  - I also can write (simple) Python project
+
+---
+
+[Email me](mailto:droidqw@gmail.com?subject=Hiring_from_GitHub) if you are hiring, thanks!
