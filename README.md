@@ -19,4 +19,6 @@ Hi there, thanks for stopping by, this is **Jiaqi Gu** from China, base in Jiaxi
 
 [Email me](mailto:droidqw@gmail.com?subject=Hiring_from_GitHub) if you need to ask me anything., thanks!
 
+---
+
 ![]( https://visitor-badge.glitch.me/badge?page_id=githubgujiaqi)
