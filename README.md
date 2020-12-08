@@ -1,5 +1,5 @@
 Hi there, thanks for stopping by, this is **Jiaqi Gu** from China, base in Jiaxing.
-![]( https://visitor-badge.glitch.me/badge?page_id=githubgujiaqi)
+
 ---
 
 **The following is my development experience.**
@@ -17,3 +17,5 @@ Hi there, thanks for stopping by, this is **Jiaqi Gu** from China, base in Jiaxi
 ---
 
 [Email me](mailto:droidqw@gmail.com?subject=Hiring_from_GitHub) if you are hiring, thanks!
+
+![]( https://visitor-badge.glitch.me/badge?page_id=githubgujiaqi)
