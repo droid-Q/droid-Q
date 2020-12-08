@@ -5,7 +5,7 @@ Hi there, thanks for stopping by, this is **Jiaqi Gu** from China, base in Jiaxi
 **The following is my development experience.**
 
 - Senior Java Developer(main)
-  - 7 years experiences
+  - 8 years experiences
 
 - Frontend developer(second)
   - Vue.js (1 year experience)
