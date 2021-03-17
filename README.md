@@ -17,6 +17,9 @@ Hi there, thanks for stopping by, this is **Jiaqi Gu** from China, base in Jiaxi
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ---
