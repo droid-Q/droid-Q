@@ -28,7 +28,7 @@ YAML    22 mins         ░░░░░░░░░░░░░░░░░░�
 
 ---
 
-[Email me](mailto:zhjvawrxd2jtdm5mdmvmaw@posteo.net?subject=Hiring_from_GitHub) if you need to ask me anything., thanks!
+[Email me](mailto:droidqw.hk@gmail.com?subject=Hiring_from_GitHub) if you need to ask me anything., thanks!
 
 ---
 
