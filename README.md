@@ -32,3 +32,4 @@ Other                         3 hrs 17 mins   ████░░░░░░░�
 ---
 
 ![]( https://visitor-badge.glitch.me/badge?page_id=githubgujiaqi)
+![]( https://github.com/droid-Q/droid-Q/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
