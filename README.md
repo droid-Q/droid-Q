@@ -19,12 +19,12 @@ Hi there, thanks for stopping by, this is **Jiaqi Gu** from China, base in Jiaxi
 <!--START_SECTION:waka-->
 
 ```text
-Java                   14 hrs 24 mins  ███████████████▒░░░░░░░░░   61.69 %
-YAML                   2 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-XML                    1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-SQL                    1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-Docker                 45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Go                     42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Java         16 hrs 40 mins  █████████████████▓░░░░░░░   70.82 %
+YAML         3 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
+SQL          1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+XML          45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+JavaScript   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Go           24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
