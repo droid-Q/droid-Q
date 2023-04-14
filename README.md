@@ -19,12 +19,12 @@ Hi there, thanks for stopping by, this is **Jiaqi Gu** from China, base in Jiaxi
 <!--START_SECTION:waka-->
 
 ```text
-Java             13 hrs 54 mins  ████████████████░░░░░░░░░   64.52 %
-XML              1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
-PlantUML file    1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-YAML             1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Go               59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-SQL              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Java             11 hrs 48 mins  █████████████░░░░░░░░░░░░   51.39 %
+PlantUML file    4 hrs 53 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.27 %
+YAML             1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+XML              1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Go               59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Other            27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
