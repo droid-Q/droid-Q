@@ -19,11 +19,11 @@ Hi there, thanks for stopping by, this is **Jiaqi Gu** from China, base in Jiaxi
 <!--START_SECTION:waka-->
 
 ```txt
-Java                  4 hrs 37 mins   ███████████▓░░░░░░░░░░░░░   46.87 %
-CMake                 1 hr 35 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
-YAML                  1 hr 27 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
-Makefile              53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-Bash                  47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Java                  4 hrs 33 mins   ██████████████░░░░░░░░░░░   56.62 %
+CMake                 1 hr 31 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
+Makefile              49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+YAML                  43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+Bash                  16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
