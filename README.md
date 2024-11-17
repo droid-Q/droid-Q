@@ -19,7 +19,7 @@ Hi there, thanks for stopping by, this is **Jiaqi Gu** from China, base in Jiaxi
 <!--START_SECTION:waka-->
 
 ```txt
-Java         19 hrs 20 mins  ██████████████████████▓░░   90.40 %
+Java         19 hrs 20 mins  ██████████████████████▓░░   90.41 %
 JSON         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 Other        38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
