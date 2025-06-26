@@ -19,11 +19,11 @@ Hi there, thanks for stopping by, this is **Jiaqi Gu** from China, base in Jiaxi
 <!--START_SECTION:waka-->
 
 ```txt
-Java              11 hrs 40 mins  ████████████████████▓░░░░   82.46 %
-Other             1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-Python            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Text              22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-YAML              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Java              10 hrs 11 mins  ██████████████████████░░░   87.41 %
+Python            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Text              22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Other             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+YAML              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
