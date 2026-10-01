@@ -27,7 +27,7 @@ JSON             51 mins               █░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
+[![Tokens Stats](https://tokens.ci/api/embed/droid-Q/svg?tokens=compact&cost=compact)](https://tokens.ci/u/droid-Q)
 ---
 
 [Email me](mailto:htk2klwgr@mozmail.com?subject=Hiring_from_GitHub) if you need to ask me anything., thanks!
